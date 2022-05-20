@@ -1,0 +1,238 @@
+@font-face {
+	font-family: "Roboto";
+	font-weight: 100;
+	font-style: normal;
+	src: local('Roboto Thin'), local('Roboto-Thin'), url(KFOkCnqEu92Fr1MmgVxIIzIXKMny.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1MmgVxIIzQ.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 100;
+	font-style: italic;
+	src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url(KFOiCnqEu92Fr1Mu51QrEzAdL-vwnYg.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOiCnqEu92Fr1Mu51QrEzAdKQ.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 300;
+	font-style: normal;
+	src: local('Roboto Light'), local('Roboto-Light'), url(KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmSU5fBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 300;
+	font-style: italic;
+	src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url(KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TjASc6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Roboto'), local('Roboto-Regular'), url(KFOmCnqEu92Fr1Mu4mxKKTU1Kg.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOmCnqEu92Fr1Mu4mxM.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 400;
+	font-style: italic;
+	src: local('Roboto Italic'), local('Roboto-Italic'), url(KFOkCnqEu92Fr1Mu51xIIzIXKMny.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1Mu51xIIzQ.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 500;
+	font-style: normal;
+	src: local('Roboto Medium'), local('Roboto-Medium'), url(KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmEU9fBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 500;
+	font-style: italic;
+	src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url(KFOjCnqEu92Fr1Mu51S7ACc6CsTYl4BO.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51S7ACc6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Roboto Bold'), local('Roboto-Bold'), url(KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmWUlfBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 700;
+	font-style: italic;
+	src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url(KFOjCnqEu92Fr1Mu51TzBic6CsTYl4BO.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TzBic6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 900;
+	font-style: normal;
+	src: local('Roboto Black'), local('Roboto-Black'), url(KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmYUtfBBc-.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto";
+	font-weight: 900;
+	font-style: italic;
+	src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url(KFOjCnqEu92Fr1Mu51TLBCc6CsTYl4BO.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TLBCc6CsI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 100;
+	font-style: normal;
+	src: local('Roboto Slab Thin'), local('RobotoSlab-Thin'), url(BngOUXZYTXPIvIBgJJSb6u-u1qeh5DKAc_g.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/BngOUXZYTXPIvIBgJJSb6u-u1qeh4g.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 300;
+	font-style: normal;
+	src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(BngRUXZYTXPIvIBgJJSb6u9mxLCGwR2oefDo.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u9mxLCGwRs.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/BngMUXZYTXPIvIBgJJSb6ufN5qM.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Roboto Slab";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url(BngRUXZYTXPIvIBgJJSb6u92w7CGwR2oefDo.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u92w7CGwRs.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 100;
+	font-style: normal;
+	src: local('Poppins Thin'), local('Poppins-Thin'), url(pxiGyp8kv8JHgFVrLPTucHtAOvWDSA.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiGyp8kv8JHgFVrLPTucHtG.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 100;
+	font-style: italic;
+	src: local('Poppins Thin Italic'), local('Poppins-ThinItalic'), url(pxiAyp8kv8JHgFVrJJLmE0tCMPKhSkFE.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiAyp8kv8JHgFVrJJLmE0tCMPQ.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 200;
+	font-style: normal;
+	src: local('Poppins ExtraLight'), local('Poppins-ExtraLight'), url(pxiByp8kv8JHgFVrLFj_Z1xlFd2JQEk.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLFj_Z1xlEw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 200;
+	font-style: italic;
+	src: local('Poppins ExtraLight Italic'), local('Poppins-ExtraLightItalic'), url(pxiDyp8kv8JHgFVrJJLmv1pVF9eOYktMqg.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLmv1pVF9eI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 300;
+	font-style: normal;
+	src: local('Poppins Light'), local('Poppins-Light'), url(pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLDz8Z1xlEw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 300;
+	font-style: italic;
+	src: local('Poppins Light Italic'), local('Poppins-LightItalic'), url(pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLm21lVF9eI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 400;
+	font-style: normal;
+	src: local('Poppins Regular'), local('Poppins-Regular'), url(pxiEyp8kv8JHgFVrJJfecnFHGPc.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiEyp8kv8JHgFVrJJfedA.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 400;
+	font-style: italic;
+	src: local('Poppins Italic'), local('Poppins-Italic'), url(pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiGyp8kv8JHgFVrJJLucHtG.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 500;
+	font-style: normal;
+	src: local('Poppins Medium'), local('Poppins-Medium'), url(pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLGT9Z1xlEw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 500;
+	font-style: italic;
+	src: local('Poppins Medium Italic'), local('Poppins-MediumItalic'), url(pxiDyp8kv8JHgFVrJJLmg1hVF9eOYktMqg.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLmg1hVF9eI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 600;
+	font-style: normal;
+	src: local('Poppins SemiBold'), local('Poppins-SemiBold'), url(pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLEj6Z1xlEw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 600;
+	font-style: italic;
+	src: local('Poppins SemiBold Italic'), local('Poppins-SemiBoldItalic'), url(pxiDyp8kv8JHgFVrJJLmr19VF9eOYktMqg.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLmr19VF9eI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 700;
+	font-style: normal;
+	src: local('Poppins Bold'), local('Poppins-Bold'), url(pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLCz7Z1xlEw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 700;
+	font-style: italic;
+	src: local('Poppins Bold Italic'), local('Poppins-BoldItalic'), url(pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLmy15VF9eI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 800;
+	font-style: normal;
+	src: local('Poppins ExtraBold'), local('Poppins-ExtraBold'), url(pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLDD4Z1xlEw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 800;
+	font-style: italic;
+	src: local('Poppins ExtraBold Italic'), local('Poppins-ExtraBoldItalic'), url(pxiDyp8kv8JHgFVrJJLm111VF9eOYktMqg.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLm111VF9eI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 900;
+	font-style: normal;
+	src: local('Poppins Black'), local('Poppins-Black'), url(pxiByp8kv8JHgFVrLBT5Z1xlFd2JQEk.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLBT5Z1xlEw.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+	font-family: "Poppins";
+	font-weight: 900;
+	font-style: italic;
+	src: local('Poppins Black Italic'), local('Poppins-BlackItalic'), url(pxiDyp8kv8JHgFVrJJLm81xVF9eOYktMqg.html) format('woff2'), url(//magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLm81xVF9eI.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}

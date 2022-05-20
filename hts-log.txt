@@ -1,0 +1,244 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 May 2022 15:58:37 at https://magnetbahn.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://magnetbahn.org -O1 "C:\My Web Sites\MB II" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:58:38	Warning: 	Note: due to https://magnetbahn.org remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+16:00:55	Warning: 	Link https://magnetbahn.org/ueber-uns/ not scanned (follow robots meta tag)
+16:01:29	Warning: 	Moved Permanently for https://magnetbahn.org/web-impressum/
+16:01:29	Warning: 	File has moved from https://magnetbahn.org/web-impressum/ to https://magnetbahn.org/anbieterkennzeichnung/
+16:01:31	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0
+16:01:32	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+16:01:32	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+16:01:32	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiGyp8kv8JHgFVrLPTucHtAOvWDSA.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiAyp8kv8JHgFVrJJLmE0tCMPKhSkFE.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLFj_Z1xlFd2JQEk.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLmv1pVF9eOYktMqg.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLm21lVF9eOYktMqg.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLmg1hVF9eOYktMqg.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLmr19VF9eOYktMqg.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLmy15VF9eOYktMqg.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLm111VF9eOYktMqg.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiByp8kv8JHgFVrLBT5Z1xlFd2JQEk.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/pxiDyp8kv8JHgFVrJJLm81xVF9eOYktMqg.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUQjIg1_i6t8kCHKm45_QpRyS7m0dR9pA.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUOjIg1_i6t8kCHKm459WxZqh7k29NfpiOj.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTURjIg1_i6t8kCHKm45_aZA3gnD_vx3rCs.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZwjimrqw.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTURjIg1_i6t8kCHKm45_cJD3gnD_vx3rCs.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUPjIg1_i6t8kCHKm459WxZYgzz_PZwjimrqw.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTURjIg1_i6t8kCHKm45_ZpC3gnD_vx3rCs.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZwjimrqw.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTURjIg1_i6t8kCHKm45_bZF3gnD_vx3rCs.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZwjimrqw.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTURjIg1_i6t8kCHKm45_dJE3gnD_vx3rCs.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZwjimrqw.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTURjIg1_i6t8kCHKm45_c5H3gnD_vx3rCs.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZwjimrqw.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTURjIg1_i6t8kCHKm45_epG3gnD_vx3rCs.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZwjimrqw.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1MmgVxIIzIXKMny.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOiCnqEu92Fr1Mu51QrEzAdL-vwnYg.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOkCnqEu92Fr1Mu51xIIzIXKMny.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51S7ACc6CsTYl4BO.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TzBic6CsTYl4BO.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/KFOjCnqEu92Fr1Mu51TLBCc6CsTYl4BO.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/BngOUXZYTXPIvIBgJJSb6u-u1qeh5DKAc_g.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u9mxLCGwR2oefDo.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/BngMUXZYTXPIvIBgJJSb6ufN5qWr4xCC.woff2
+16:01:33	Warning: 	File not parsed, looks like binary: https://magnetbahn.org/wp-content/uploads/sgf-css/BngRUXZYTXPIvIBgJJSb6u92w7CGwR2oefDo.woff2
+16:01:33	Warning: 	Moved Permanently for https://magnetbahn.org/?p=3717
+16:01:33	Warning: 	File has moved from https://magnetbahn.org/?p=3717 to https://magnetbahn.org/posts/
+16:02:12	Warning: 	Moved Permanently for https://magnetbahn.org/?p=65974
+16:02:12	Warning: 	File has moved from https://magnetbahn.org/?p=65974 to https://magnetbahn.org/infos/
+16:02:12	Warning: 	Moved Permanently for https://magnetbahn.org/fahrzeuguebersicht/
+16:02:12	Warning: 	File has moved from https://magnetbahn.org/fahrzeuguebersicht/ to https://magnetbahn.org/uebersicht/
+16:02:12	Warning: 	Found for magnetbahn.org/robots.txt
+16:02:12	Warning: 	Redirected link is identical because of 'URL Hack' option: magnetbahn.org/robots.txt and https://magnetbahn.org/robots.txt
+16:02:12	Warning: 	Warning moved treated for magnetbahn.org/robots.txt (real one is https://magnetbahn.org/robots.txt)
+16:02:12	Warning: 	Found for magnetbahn.org/crrc-cf600/
+16:02:12	Warning: 	Redirected link is identical because of 'URL Hack' option: magnetbahn.org/crrc-cf600/ and https://magnetbahn.org/crrc-cf600/
+16:02:12	Warning: 	File has moved from magnetbahn.org/crrc-cf600/ to https://magnetbahn.org/crrc-cf600/
+16:02:12	Warning: 	Found for magnetbahn.org/crrc-cf200/
+16:02:12	Warning: 	Redirected link is identical because of 'URL Hack' option: magnetbahn.org/crrc-cf200/ and https://magnetbahn.org/crrc-cf200/
+16:02:12	Warning: 	File has moved from magnetbahn.org/crrc-cf200/ to https://magnetbahn.org/crrc-cf200/
+16:02:12	Error: 	"Not Found" (404) at link https://magnetbahn.org/news/energieversorgung-des-transrapid-fahrzeugs (from https://magnetbahn.org/infos/)
+16:02:15	Warning: 	Moved Permanently for https://magnetbahn.org/?p=4171
+16:02:15	Warning: 	File has moved from https://magnetbahn.org/?p=4171 to https://magnetbahn.org/tve/
+16:02:15	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1536
+16:02:15	Warning: 	File has moved from https://magnetbahn.org/?p=1536 to https://magnetbahn.org/uebersicht/
+16:03:12	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1289
+16:03:12	Warning: 	File has moved from https://magnetbahn.org/?p=1289 to https://magnetbahn.org/vorteile/
+16:03:12	Warning: 	Moved Permanently for https://magnetbahn.org/?p=15150
+16:03:12	Warning: 	File has moved from https://magnetbahn.org/?p=15150 to https://magnetbahn.org/faktencheck/
+16:03:12	Warning: 	Moved Permanently for https://magnetbahn.org/?p=74121
+16:03:12	Warning: 	File has moved from https://magnetbahn.org/?p=74121 to https://magnetbahn.org/videos/
+16:03:12	Warning: 	Moved Permanently for https://magnetbahn.org/mediathek/der-tr09-entsteht-video/
+16:03:12	Warning: 	File has moved from https://magnetbahn.org/mediathek/der-tr09-entsteht-video/ to https://magnetbahn.org/galerie/der-tr09-entsteht-video/
+16:03:18	Warning: 	Moved Permanently for https://magnetbahn.org/mediathek/tr09-transport-zur-tve-video/
+16:03:18	Warning: 	File has moved from https://magnetbahn.org/mediathek/tr09-transport-zur-tve-video/ to https://magnetbahn.org/galerie/tr09-transport-zur-tve-video/
+16:03:21	Warning: 	Moved Permanently for https://magnetbahn.org/mediathek/alles-ueber-den-tr09-produktion-video/
+16:03:21	Warning: 	File has moved from https://magnetbahn.org/mediathek/alles-ueber-den-tr09-produktion-video/ to https://magnetbahn.org/galerie/alles-ueber-den-tr09-produktion-video/
+16:06:37	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1212
+16:06:37	Warning: 	File has moved from https://magnetbahn.org/?p=1212 to https://magnetbahn.org/galerie/
+16:06:37	Warning: 	Moved Permanently for https://magnetbahn.org/?p=113510
+16:06:37	Warning: 	File has moved from https://magnetbahn.org/?p=113510 to https://magnetbahn.org/news/wichtige-information-ueber-die-zukunft-von-magnetbahn-org/
+16:06:37	Warning: 	Moved Permanently for https://magnetbahn.org/?p=112236
+16:06:37	Warning: 	File has moved from https://magnetbahn.org/?p=112236 to https://magnetbahn.org/news/politische-partei-schlaegt-solarpanels-auf-transrapid-teststrecke-vor/
+16:06:37	Warning: 	Moved Permanently for https://magnetbahn.org/?p=109190
+16:06:37	Warning: 	File has moved from https://magnetbahn.org/?p=109190 to https://magnetbahn.org/news/so-ist-die-transrapid-technologie-entstanden/
+16:06:37	Warning: 	Moved Permanently for https://magnetbahn.org/?p=108641
+16:06:37	Warning: 	File has moved from https://magnetbahn.org/?p=108641 to https://magnetbahn.org/news/was-wenn-europa-den-transrapid-wieder-will/
+16:06:37	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1919
+16:06:37	Warning: 	File has moved from https://magnetbahn.org/?p=1919 to https://magnetbahn.org/news/neue-details-zum-crrc-600-veroeffentlicht/
+16:06:37	Error: 	"Not Found" (404) at link https://magnetbahn.org/news/die-geheime-transrapidstrecke-in-china-die-die-tve-ersetzt (from https://magnetbahn.org/news/neue-details-zum-crrc-600-veroeffentlicht/)
+16:06:37	Error: 	"Not Found" (404) at link https://magnetbahn.org/wp-content/uploads/2021/01/IMG_4382.jpg (from https://magnetbahn.org/news/neue-details-zum-crrc-600-veroeffentlicht/)
+16:06:37	Warning: 	Moved Permanently for https://magnetbahn.org/?p=3762
+16:06:37	Warning: 	File has moved from https://magnetbahn.org/?p=3762 to https://magnetbahn.org/news/maglev-guideway-boegl-besser-und-guenstiger/
+16:06:38	Error: 	"Not Found" (404) at link https://magnetbahn.org/wp-content/uploads/2021/04/IMG_8606.jpg (from https://magnetbahn.org/news/maglev-guideway-boegl-besser-und-guenstiger/)
+16:06:38	Error: 	"Not Found" (404) at link https://magnetbahn.org/wp-content/uploads/2021/04/Hybridtraeger-1BA-T267-Prototyp1_03.jpg (from https://magnetbahn.org/news/maglev-guideway-boegl-besser-und-guenstiger/)
+16:06:38	Warning: 	Moved Permanently for https://magnetbahn.org/?p=5865
+16:06:38	Warning: 	File has moved from https://magnetbahn.org/?p=5865 to https://magnetbahn.org/news/weiche-fuer-den-crrc-600-vorgestellt/
+16:06:38	Warning: 	Moved Permanently for https://magnetbahn.org/?p=26306
+16:06:38	Warning: 	File has moved from https://magnetbahn.org/?p=26306 to https://magnetbahn.org/news/warum-der-hyperloop-unrealistisch-ist/
+16:06:38	Warning: 	Moved Permanently for https://magnetbahn.org/?p=51385
+16:06:38	Warning: 	File has moved from https://magnetbahn.org/?p=51385 to https://magnetbahn.org/news/die-erste-versammlung-des-neuen-foerderverein-transrapid-emsland-e-v/
+16:06:38	Error: 	"Not Found" (404) at link https://magnetbahn.org/verein (from https://magnetbahn.org/news/die-erste-versammlung-des-neuen-foerderverein-transrapid-emsland-e-v/)
+16:06:40	Warning: 	Moved Permanently for https://magnetbahn.org/?p=106652
+16:06:40	Warning: 	File has moved from https://magnetbahn.org/?p=106652 to https://magnetbahn.org/news/magnetbahn-org-ist-zurueck/
+16:06:40	Warning: 	Moved Permanently for https://magnetbahn.org/?p=2098
+16:06:40	Warning: 	File has moved from https://magnetbahn.org/?p=2098 to https://magnetbahn.org/news/tsb-knackt-169-km-h/
+16:06:40	Warning: 	Moved Permanently for https://magnetbahn.org/?p=2841
+16:06:40	Warning: 	File has moved from https://magnetbahn.org/?p=2841 to https://magnetbahn.org/news/transportsystem-boegl-tsb-in-nordrhein-westfalen/
+16:06:43	Error: 	"Forbidden" (403) at link https://supertipp-online.de/wp-content/uploads/2021/03/Magentschwebebahn_Heiligenhaus_MK5_2939.jpg (from https://magnetbahn.org/news/transportsystem-boegl-tsb-in-nordrhein-westfalen/)
+16:06:43	Warning: 	Moved Permanently for https://magnetbahn.org/?p=3843
+16:06:43	Warning: 	File has moved from https://magnetbahn.org/?p=3843 to https://magnetbahn.org/news/muenchener-stadtrat-diskutiert-ueber-44-tsb-strecken/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1061
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=1061 to https://magnetbahn.org/datenschutzerklaerung/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=86546
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=86546 to https://magnetbahn.org/news/wann-der-transrapid-sinn-macht-energieverbrauch/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=85145
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=85145 to https://magnetbahn.org/news/was-uns-2022-erwartet/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=83809
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=83809 to https://magnetbahn.org/news/eilmeldung-china-hat-das-tsb-kopiert/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=65452
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=65452 to https://magnetbahn.org/news/china-entwickelt-neue-magnetbahn-die-auf-l0-shinkansen-basiert/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=41965
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=41965 to https://magnetbahn.org/news/neue-urban-magnetschwebebahn-in-russland-vorgestellt/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=34339
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=34339 to https://magnetbahn.org/news/baubeginn-der-tsb-cargo-strecke-in-hamburg/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=28335
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=28335 to https://magnetbahn.org/news/crrc-600-offiziell-praesentiert/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=19869
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=19869 to https://magnetbahn.org/news/4-km-transrapid-teststrecke-in-china-neue-infos-zum-200-km-h-fahrzeug/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=12704
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=12704 to https://magnetbahn.org/news/das-600-km-h-maglev-forschungszentrum-in-qingdao/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=8995
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=8995 to https://magnetbahn.org/news/transrapid-durch-ganz-europa-der-trans-europa-express/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=4303
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=4303 to https://magnetbahn.org/news/transrapid-lernstandort-rueckt-in-naehe/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=2959
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=2959 to https://magnetbahn.org/news/300-km-h-transrapid-klon-in-china-vorgestellt/
+16:06:45	Warning: 	Found for magnetbahn.org/transrapid/
+16:06:45	Warning: 	Redirected link is identical because of 'URL Hack' option: magnetbahn.org/transrapid/ and https://magnetbahn.org/transrapid/
+16:06:45	Warning: 	File has moved from magnetbahn.org/transrapid/ to https://magnetbahn.org/transrapid/
+16:06:45	Error: 	"Not Found" (404) at link https://magnetbahn.org/faq (from https://magnetbahn.org/news/300-km-h-transrapid-klon-in-china-vorgestellt/)
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=2897
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=2897 to https://magnetbahn.org/news/crrc-prueft-reaktivierung-der-transrapid-versuchsanlage-emsland/
+16:06:45	Warning: 	Moved Permanently for https://magnetbahn.org/?p=2669
+16:06:45	Warning: 	File has moved from https://magnetbahn.org/?p=2669 to https://magnetbahn.org/news/hyperloop-in-lathen-immer-wahrscheinlicher/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=2017
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=2017 to https://magnetbahn.org/news/die-transrapidausstellung-in-lathen-kommt-2021/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=85860
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=85860 to https://magnetbahn.org/uebersicht/freightrapid/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1565
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=1565 to https://magnetbahn.org/uebersicht/transrapid-09/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=2290
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=2290 to https://magnetbahn.org/smt/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1549
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=1549 to https://magnetbahn.org/uebersicht/transrapid-08/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1563
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=1563 to https://magnetbahn.org/uebersicht/transrapid-07/
+16:06:48	Error: 	"Not Found" (404) at link https://magnetbahn.org/wp-content/uploads/2021/02/IMG_4527-scaled.jpg (from https://magnetbahn.org/uebersicht/transrapid-07/)
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1561
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=1561 to https://magnetbahn.org/uebersicht/transrapid-06/
+16:06:48	Error: 	"Not Found" (404) at link https://magnetbahn.org/wp-content/uploads/2021/02/46CFED4A-77AF-4424-A1E1-63F4A3A3EEE7-scaled.jpeg (from https://magnetbahn.org/uebersicht/transrapid-06/)
+16:06:48	Error: 	"Not Found" (404) at link https://magnetbahn.org/wp-content/uploads/2021/01/Transrapid06-04_02.jpg (from https://magnetbahn.org/uebersicht/transrapid-06/)
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=3150
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=3150 to https://magnetbahn.org/uebersicht/transrapid-05/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=3128
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=3128 to https://magnetbahn.org/uebersicht/hmb2/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=12341
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=12341 to https://magnetbahn.org/komet/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=12300
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=12300 to https://magnetbahn.org/uebersicht/transrapid-04/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=12353
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=12353 to https://magnetbahn.org/uebersicht/erlangener-erprobungstraeger/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=12310
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=12310 to https://magnetbahn.org/uebersicht/transrapid-03/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=12323
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=12323 to https://magnetbahn.org/uebersicht/transrapid-02/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=5507
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=5507 to https://magnetbahn.org/mbb-prinzipfahrzeug/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=12329
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=12329 to https://magnetbahn.org/uebersicht/transrapid-01/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=69310
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=69310 to https://magnetbahn.org/uebersicht/tsb-cargo/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1573
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=1573 to https://magnetbahn.org/uebersicht/tsb02/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1571
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=1571 to https://magnetbahn.org/uebersicht/tsb01/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1577
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=1577 to https://magnetbahn.org/uebersicht/crrc-cf600/
+16:06:48	Warning: 	Moved Permanently for https://magnetbahn.org/?p=3085
+16:06:48	Warning: 	File has moved from https://magnetbahn.org/?p=3085 to https://magnetbahn.org/uebersicht/crrc-cf200/
+16:06:51	Warning: 	Moved Permanently for https://magnetbahn.org/?p=42151
+16:06:51	Warning: 	File has moved from https://magnetbahn.org/?p=42151 to https://magnetbahn.org/galerie/transrapid-shanghai-airport-line-video/
+16:06:51	Warning: 	Moved Permanently for https://magnetbahn.org/?p=42179
+16:06:51	Warning: 	File has moved from https://magnetbahn.org/?p=42179 to https://magnetbahn.org/galerie/transrapid-shanghai-fertigungsschritte/
+16:06:51	Warning: 	Retry after error -4 (Incorrect length (292109992 Bytes, 448121523 expected)) at link https://magnetbahn.org/wp-content/uploads/2021/08/SMT-FERTIGUNG.mp4 (from https://magnetbahn.org/transrapid-shanghai-fertigungsschritte/)
+16:06:54	Warning: 	Moved Permanently for https://magnetbahn.org/?p=42118
+16:06:54	Warning: 	File has moved from https://magnetbahn.org/?p=42118 to https://magnetbahn.org/galerie/tve-transrapid-versuchsanlage-emsland-video/
+16:06:57	Warning: 	Moved Permanently for https://magnetbahn.org/?p=42072
+16:06:57	Warning: 	File has moved from https://magnetbahn.org/?p=42072 to https://magnetbahn.org/galerie/die-transrapid-story-video/
+16:06:57	Warning: 	Retry after error -4 (Incorrect length (143212200 Bytes, 483789437 expected)) at link https://magnetbahn.org/wp-content/uploads/2021/08/TR-STORY-V2.mp4 (from https://magnetbahn.org/galerie/die-transrapid-story-video/)
+16:07:23	Warning: 	Moved Permanently for https://magnetbahn.org/?p=42133
+16:07:23	Warning: 	File has moved from https://magnetbahn.org/?p=42133 to https://magnetbahn.org/galerie/transrapid-worldwide-video/
+16:07:23	Warning: 	Retry after error -4 (Incorrect length (35045033 Bytes, 175697581 expected)) at link https://magnetbahn.org/wp-content/uploads/2021/08/TR-WORLDWIDE.mp4 (from https://magnetbahn.org/galerie/transrapid-worldwide-video/)
+16:12:33	Warning: 	Moved Permanently for https://magnetbahn.org/?p=42135
+16:12:33	Warning: 	File has moved from https://magnetbahn.org/?p=42135 to https://magnetbahn.org/galerie/hochtechnologie-fuer-den-flug-in-hoehe-null-video/
+16:12:33	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1542
+16:12:33	Warning: 	File has moved from https://magnetbahn.org/?p=1542 to https://magnetbahn.org/transportsystem-boegl/
+16:12:33	Warning: 	Moved Permanently for https://magnetbahn.org/?p=33
+16:12:33	Warning: 	File has moved from https://magnetbahn.org/?p=33 to https://magnetbahn.org/anbieterkennzeichnung/
+16:12:33	Warning: 	Moved Permanently for https://magnetbahn.org/?p=1544
+16:12:33	Warning: 	File has moved from https://magnetbahn.org/?p=1544 to https://magnetbahn.org/crrc-china/
+16:12:33	Warning: 	Moved Permanently for https://magnetbahn.org/?p=61577
+16:12:33	Warning: 	File has moved from https://magnetbahn.org/?p=61577 to https://magnetbahn.org/galerie/der-tr09-entsteht-video/
+16:12:33	Warning: 	Moved Permanently for https://magnetbahn.org/?p=61608
+16:12:33	Warning: 	File has moved from https://magnetbahn.org/?p=61608 to https://magnetbahn.org/galerie/tr09-transport-zur-tve-video/
+16:12:38	Warning: 	Moved Permanently for https://magnetbahn.org/?p=61607
+16:12:38	Warning: 	File has moved from https://magnetbahn.org/?p=61607 to https://magnetbahn.org/galerie/alles-ueber-den-tr09-produktion-video/
+16:12:47	Warning: 	Retry after error -4 (Incorrect length (194936079 Bytes, 483789437 expected)) at link https://magnetbahn.org/wp-content/uploads/2021/08/TR-STORY-V2.mp4 (from https://magnetbahn.org/galerie/die-transrapid-story-video/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 20 seconds : 820 links scanned, 726 files written (2456355411 bytes overall) [2445584872 bytes received at 2843703 bytes/sec], 16464647 bytes transferred using HTTP compression in 228 files, ratio 27%, 14.9 requests per connection
+(11 errors, 222 warnings, 0 messages)
